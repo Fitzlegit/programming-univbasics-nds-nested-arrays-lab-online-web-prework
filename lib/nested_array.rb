@@ -57,6 +57,8 @@ def array_literal_matrix
   ]
   array_matrix.sort!
   
+  p array_matrix
+  
 end
 
 def matrix_lookup(matrix, row, column)
