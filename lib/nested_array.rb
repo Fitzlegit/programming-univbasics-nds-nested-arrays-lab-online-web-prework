@@ -55,7 +55,7 @@ def array_literal_matrix
   "Michael Pemulis"
     ]
   ]
-  array_matrix.sort
+  array_matrix.sort!
   
 end
 
